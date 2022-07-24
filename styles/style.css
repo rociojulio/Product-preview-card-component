@@ -22,7 +22,7 @@ main {
 }
 
 .product-image {
-  background-image: url("/images/image-product-desktop.jpg");
+  background-image: url("../images/image-product-desktop.jpg");
   background-size: cover;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
@@ -83,7 +83,7 @@ button:hover {
         height: 600px;
     }
     .product-image {
-        background-image: url("/images/image-product-mobile.jpg");
+        background-image: url("../images/image-product-mobile.jpg");
         height:35%;
         background-size: cover;
         background-repeat: no-repeat;
